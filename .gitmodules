@@ -1,0 +1,6 @@
+[submodule "toolchain"]
+	path = toolchain
+	url = git@github.com:northwoodlogic/buildroot
+[submodule "kernel"]
+	path = kernel
+	url = git@github.com:northwoodlogic/linux-mainline
